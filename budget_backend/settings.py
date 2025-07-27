@@ -130,3 +130,6 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 CORS_ALLOWED_ORIGINS = [
     "https://pushhhkar.github.io",
 ]
+
+
+#trigger redeploy for migration
